@@ -1,0 +1,4 @@
+R5T.T0038 - Basic (R5T.T0038 and R5T.Magyar-only) extensions to ISynchronicity.
+
+Goals
+

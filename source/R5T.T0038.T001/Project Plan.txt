@@ -1,0 +1,4 @@
+R5T.T0038.T001 - IExecutedOrEnqueued extension methods base.
+
+Goals
+
