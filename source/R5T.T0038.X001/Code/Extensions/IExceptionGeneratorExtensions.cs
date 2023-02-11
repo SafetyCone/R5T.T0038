@@ -1,6 +1,6 @@
 ﻿using System;
 
-using R5T.Magyar;
+using R5T.Magyar.T002;
 
 using Instances = R5T.T0038.X001.Instances;
 
